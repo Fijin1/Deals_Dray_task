@@ -1,16 +1,17 @@
-# Deals Dray Task
+DEALSDRAY
+This repository contains the completed task for the Flutter Developer internship application. The code has been uploaded to GitHub as requested.
 
-A new Flutter project.
+Google Drive Link:
 
-## Getting Started
+https://drive.google.com/file/d/1-412XL2bP4awNVpo4wvOqDOBMpCNITfG/view?usp=drivesdk
 
-This project is a starting point for a Flutter application.
+Code Submission
+The source code for this project is available in this repository.
 
-A few resources to get you started if this is your first Flutter project:
+Contact
+For any queries or additional information, please feel free to contact me at [Fijinshifas1@gmail.com]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Thank you for considering my application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Best Regards,
+Fijin Shifas P
